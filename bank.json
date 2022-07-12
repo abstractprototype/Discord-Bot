@@ -1,0 +1,175 @@
+{
+    "users": {
+      "155842537947398145": {
+        "name": "Egg",
+        "wallet": 2073.706969696914,
+        "coins_lost": 9562427.68,
+        "coins_flipped": 179,
+        "coins_stolen": 17
+      },
+      "231897988077715458": {
+        "name": "Chiyu",
+        "wallet": 84.0,
+        "coins_lost": 2999902.0,
+        "coins_flipped": 7,
+        "coins_stolen": 0
+      },
+      "200110960508141568": {
+        "name": "Defective",
+        "wallet": 413009.303030303,
+        "coins_lost": 58852038.0,
+        "coins_flipped": 969,
+        "coins_stolen": 27
+      },
+      "619295226539802624": {
+        "name": "bubble pop",
+        "wallet": 0.0,
+        "coins_lost": 1115.0,
+        "coins_flipped": 6,
+        "coins_stolen": 0
+      },
+      "695696880436379740": {
+        "name": "krezna",
+        "wallet": 1200000.0,
+        "coins_lost": 54500000.0,
+        "coins_flipped": 1587,
+        "coins_stolen": 0
+      },
+      "402892812561154079": {
+        "name": "Quantum_Core06",
+        "wallet": 360836.0,
+        "coins_lost": 27500.0,
+        "coins_flipped": 7,
+        "coins_stolen": 0
+      },
+      "501214255761195019": {
+        "name": "turtle",
+        "wallet": 81,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "138461491757187072": {
+        "name": "The Supporter",
+        "wallet": 46.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "630257891265478688": {
+        "name": "TacoKiller",
+        "wallet": 1792659.31,
+        "coins_lost": 177721908.0,
+        "coins_flipped": 2481,
+        "coins_stolen": 0
+      },
+      "617461184928677888": {
+        "name": "mink",
+        "wallet": 10.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "166755713052442625": {
+        "name": "Kevinyock",
+        "wallet": 11206.0,
+        "coins_lost": 1.0,
+        "coins_flipped": 1,
+        "coins_stolen": 0
+      },
+      "936586325656760340": {
+        "name": "gaymoonassasin",
+        "wallet": 4.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "298226129754390532": {
+        "name": "cbass",
+        "wallet": 100000.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "404101484393922570": {
+        "name": "Batwigi",
+        "wallet": 100000.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "242919650608939009": {
+        "name": "Asteriax",
+        "wallet": 101107.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "317510556451995661": {
+        "name": "sleepy",
+        "wallet": 100197.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "146522994938871809": {
+        "name": "astrosteel8",
+        "wallet": 100100.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "239570576610557962": {
+        "name": "adriand17",
+        "wallet": 1161.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "143225470077501440": {
+        "name": "BasherDasher",
+        "wallet": 102225.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "279282101583609856": {
+        "name": "ShotAlcazar",
+        "wallet": 200.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "163731669319155714": {
+        "name": "herropaul",
+        "wallet": 122.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "134843343535341568": {
+        "name": "Banan",
+        "wallet": 173.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "262455443119538176": {
+        "name": "ashling",
+        "wallet": 1000000.0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      },
+      "347505061997576204": {
+        "name": "fuyuko-chan",
+        "wallet": 0,
+        "coins_lost": 0,
+        "coins_flipped": 0,
+        "coins_stolen": 0
+      }
+    },
+    "legends_bank": {
+      "balance": 682724584.0799999
+    }
+  }
